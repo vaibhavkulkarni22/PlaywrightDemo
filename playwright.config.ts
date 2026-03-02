@@ -34,7 +34,7 @@ export default defineConfig({
     viewport: { width: 1440, height: 703 },
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
-    headless: false,
+    headless: true,
   },
 
   /* Configure projects for major browsers */
