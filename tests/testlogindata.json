@@ -1,0 +1,47 @@
+{
+    "url": "https://freelance-learn-automation.vercel.app/login",
+    "users": 
+    [
+        {
+            "id":1,
+            "username": "admin@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":2,
+            "username": "admina@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":3,
+            "username": "adminb@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":4,
+            "username": "adminc@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":5,
+            "username": "admind@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":6,
+            "username": "admine@email.com",
+            "password": "admin@123"
+        },
+
+        {
+            "id":7,
+            "username": "adminf@email.com",
+            "password": "admin@123"
+        }
+    ]
+}

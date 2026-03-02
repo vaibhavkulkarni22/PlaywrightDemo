@@ -1,0 +1,13 @@
+{
+    "username": "admin@email.com",
+    "password": "admin@123",
+    "name": "vaibhav",
+    "interest": ["Cypress", "Java", "API"],
+    "gender": "male",
+    "address":
+            {
+                "Aria": "Lohegaon",
+                "city": "Pune",
+                "pincode": 411047
+            }
+}
