@@ -10,7 +10,7 @@ This is a sample project to demonstrate the capabilities of Playwright for end-t
 
 ### Prerequisites
 
--   Node.js and npm should be installed on your machine.
+- Node.js and npm should be installed on your machine.
 
 ### Installation
 
@@ -40,8 +40,9 @@ This will run all the tests in the `tests` directory.
 ### Reporters
 
 This project is configured with the following reporters:
--   `html`: Generates an HTML report of the test results. The report can be found in the `playwright-report` directory.
--   `allure-playwright`: Generates an Allure report. The results are stored in the `allure-results` directory.
+
+- `html`: Generates an HTML report of the test results. The report can be found in the `playwright-report` directory.
+- `allure-playwright`: Generates an Allure report. The results are stored in the `allure-results` directory.
 
 ### Viewing the reports
 
@@ -68,24 +69,25 @@ To generate and view the Allure report, you can use the following commands:
 
 ## Project Structure
 
--   `tests/`: Contains all the test files.
--   `playwright.config.ts`: Configuration file for Playwright.
--   `package.json`: Contains the project's metadata and dependencies.
--   `allure-report/`: Contains the generated Allure report.
--   `allure-results/`: Contains the results of the Allure reporter.
--   `playwright-report/`: Contains the generated HTML report.
+- `tests/`: Contains all the test files.
+- `playwright.config.ts`: Configuration file for Playwright.
+- `package.json`: Contains the project's metadata and dependencies.
+- `allure-report/`: Contains the generated Allure report.
+- `allure-results/`: Contains the results of the Allure reporter.
+- `playwright-report/`: Contains the generated HTML report.
 
 ## Test Scenarios
 
 This project includes the following test scenarios:
--   Login functionality
--   Handling dropdowns
--   Handling alerts
--   Auto-suggestion
--   Handling iframes
--   Handling multiple windows
--   Keyboard events
--   Mouse hover
--   File upload and download
--   Verifying error messages
--   Waiting for load state
+
+- Login functionality
+- Handling dropdowns
+- Handling alerts
+- Auto-suggestion
+- Handling iframes
+- Handling multiple windows
+- Keyboard events
+- Mouse hover
+- File upload and download
+- Verifying error messages
+- Waiting for load state
