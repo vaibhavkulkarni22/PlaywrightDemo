@@ -19,5 +19,5 @@ test("Handling iFrames test", async ({ page }) => {
   await iframe1.locator("//a[normalize-space()='java.applet']").click();
   await page.waitForTimeout(5000);
   await iframe2.getByText("AppletContext").click();
-  await page.pause();
+  // await page.pause();
 });
